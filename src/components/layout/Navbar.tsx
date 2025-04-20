@@ -30,7 +30,7 @@ export default function Navbar() {
               <Link href="#" className="text-gray-500 hover:text-gray-900">Blog</Link>
               <Link href="#" className="text-gray-500 hover:text-gray-900">AskCode</Link>
               <Link href="#" className="text-gray-500 hover:text-gray-900">HR</Link>
-              <Link href="#" className="text-gray-500 hover:text-purple-600 font-medium">Premium</Link>
+              <Link href="#" className="text-yellow-500 hover:text-purple-600 font-medium">Premium</Link>
             </div>
           </div>
           
